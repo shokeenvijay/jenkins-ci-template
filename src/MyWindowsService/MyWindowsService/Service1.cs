@@ -6,7 +6,7 @@ using Couchbase;
 using Couchbase.Configuration.Client;
 
 namespace MyWindowsService
-{
+{gfdgsdgfgdfg
     public partial class Service1 : ServiceBase
     {
         bool firstRun;
